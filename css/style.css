@@ -326,6 +326,8 @@ html {
 		background: #505C67;
 	}
 
+
+
 	nav.main ul li:not(:first-child) {
 		padding-top: 0.5rem;
 	}
